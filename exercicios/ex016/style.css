@@ -1,0 +1,8 @@
+* { /* Configurações globais das CSS */
+  height: 100%;
+}
+body {
+  background-image: radial-gradient(circle, #854BBF, #BF3B9C, #D93280, #F26835, #F2AA52);
+  font-family: Arial;
+  background-attachment: fixed;
+}

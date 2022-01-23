@@ -1,0 +1,17 @@
+h1 {
+    background-color: lightcyan;
+    height: 300px;
+    width: 300px;
+    border: 10px solid darkcyan;
+    margin: auto;
+    margin-bottom: 50px;
+    outline-style: dashed;
+    outline-color: darkseagreen;
+    outline-width: 10px;
+}
+
+a {
+    border: 10px solid darkred;
+    padding: 10px 10px 10px 10px;
+    
+}

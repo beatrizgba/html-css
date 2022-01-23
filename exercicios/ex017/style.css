@@ -1,0 +1,18 @@
+
+body {
+    font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+    /* Medidas absolutas
+    cm, mm, in (polegadas), pix, pt (ponto), pc (paica)
+
+    Medidas relativas
+    em (relativa atual da fonte), ex (relativo ao tamanho x da fonte), rem (relativo ao root), vw (largura da view port), vh ( altura da view port), %
+
+    16px geralmente = 1em
+    */
+    font-size: 1em ;
+
+
+}
+
+
+
