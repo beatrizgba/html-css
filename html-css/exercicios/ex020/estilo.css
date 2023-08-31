@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div > p {
+    display: none;
+}
+
+div:hover > p {
+    display: block;
+    color: lightsalmon;
+    background-color: lightskyblue;
+}
+div:hover {
+    color: lightsalmon;
+}
